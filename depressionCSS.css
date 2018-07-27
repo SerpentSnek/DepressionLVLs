@@ -1,0 +1,15 @@
+/*dis is for deprosed*/
+
+p {
+  border:3px;
+  border-style:solid;
+  border-color:#3e5e91;
+  padding: 10px;
+}
+
+p1 {
+  border:3px;
+  border-style:double;
+  border-color:#b25e6b;
+  padding: 10px;
+}
